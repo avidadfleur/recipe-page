@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://leafy-cobbler-e34645.netlify.app">
+    <a href="https://avidadfleur.github.io/recipe-page/">
       Solution
     </a>
     <span> | </span>
@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@avidadfleur](https://{github.com/avidadfleur})
-- Twitter [@laviedefleur](https://{twitter.com/laviedefleur})
+- GitHub [@avidadfleur](https://github.com/avidadfleur)
+- Twitter [@laviedefleur](https://twitter.com/laviedefleur)
